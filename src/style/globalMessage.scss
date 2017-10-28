@@ -1,0 +1,25 @@
+.message-container {
+    position: relative;
+    overflow: auto;
+}
+
+.message-floater {
+    position: absolute;
+    top: 0;
+    left: 25%;
+    width: 50%;
+}
+
+.message-flex {
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+}
+
+.message {
+    z-index: 20;
+}
+
+.inner-message {
+    margin: 0 auto;
+}
