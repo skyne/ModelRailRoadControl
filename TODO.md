@@ -3,7 +3,7 @@
 ## Api
 
 General actions and reducer for
-  - api regest started
+  - api request started
   - api response recieved
   - api request failed
   
