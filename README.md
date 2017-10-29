@@ -1,3 +1,5 @@
+![TravisCI](https://travis-ci.org/skyne/my-spa-template.svg?branch=master)
+
 ## Build Setup
 
 ``` bash
