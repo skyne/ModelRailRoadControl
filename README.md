@@ -1,5 +1,7 @@
 ![TravisCI](https://travis-ci.org/skyne/my-spa-template.svg?branch=master)
 
+[Demo Site](https://skyne.github.io/)
+
 ## Build Setup
 
 ``` bash
