@@ -1,4 +1,4 @@
-import * as React from 'React';
+import * as React from 'react';
 import { connect } from 'react-redux';
 
 import { showLoader } from '../../actions/loader.actions';
