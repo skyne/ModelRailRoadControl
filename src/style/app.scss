@@ -1,7 +1,7 @@
 $brand-primary: #00d8ff;
 
-$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
-@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+//$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+@import "~bootstrap/scss/bootstrap";
 @import "loader.scss";
 @import "globalMessage.scss";
 
